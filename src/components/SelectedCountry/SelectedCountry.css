@@ -1,0 +1,14 @@
+.single-country{
+    width: 180px;
+    /* border: 2px solid gray; */
+    margin-left: -50px;
+    margin-top: 20px;
+    border-radius: 6px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px rgb(175, 110, 110);
+    line-height: 17px;
+
+}
+.flag{
+    height: 80px;
+}
